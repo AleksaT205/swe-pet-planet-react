@@ -1,6 +1,10 @@
 🐾 PetPlanet
 A full-featured web application for pet salons – built with React, .NET, and Azure.
 
+PetPlanet is a web application built using React (JavaScript) for the frontend, .NET for the backend, and Azure Data Studio for database management. It serves as a platform for a chain of pet care salons, enabling each salon to share its services, products, and available appointment slots.
+
+Users can register and log in as individuals, salons, or administrators. Salons can publish their services and manage orders, while users can book appointments, rate salons, and interact through public questions.
+
 🌐 Overview
 PetPlanet is a modern web platform developed using React (JavaScript) for the frontend, .NET for the backend, and Azure Data Studio for managing the database.
 It is designed for a chain of pet care salons, allowing each salon to manage its services, products, and appointment scheduling with ease.
