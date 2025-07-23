@@ -1,54 +1,59 @@
-PetPlanet
-PetPlanet is a web application built using React (JavaScript) for the frontend, .NET for the backend, and Azure Data Studio for database management. It serves as a platform for a chain of pet care salons, enabling each salon to share its services, products, and available appointment slots.
+🐾 PetPlanet
+A full-featured web application for pet salons – built with React, .NET, and Azure.
 
-Users can register and log in as individuals, salons, or administrators. Salons can publish their services and manage orders, while users can book appointments, rate salons, and interact through public questions.
+🌐 Overview
+PetPlanet is a modern web platform developed using React (JavaScript) for the frontend, .NET for the backend, and Azure Data Studio for managing the database.
+It is designed for a chain of pet care salons, allowing each salon to manage its services, products, and appointment scheduling with ease.
 
-Features
-1. Authentication & User Accounts
-Registration: Users can create accounts by providing basic personal information.
+👥 Users can register as individuals, salons, or administrators, book services, leave reviews, and interact directly with salons through a public Q&A section.
 
-Login: Secure login functionality for all user types.
+🚀 Features
+🔐 1. Authentication & Accounts
+📝 Registration – Sign up with personal details.
 
-Password Management: Users can update their passwords for account security.
+🔓 Login – Secure login for all user types.
 
-Profile Editing: Users can update their personal information anytime.
+🔑 Password Management – Change password anytime.
 
-2. Salons & Services
-Salon Overview: View basic salon information such as location, description, and working hours.
+🧾 Profile Editing – Update your personal information.
 
-Service Listings: Browse detailed lists of services offered by each salon.
+🏪 2. Salons & Services
+📍 Salon Info – View salon location, description & working hours.
 
-Add/Edit/Delete Services: Salon owners or admins can manage the service catalog.
+💇‍♂️ Service Listings – Explore services each salon offers.
 
-3. Products & Orders
-Product Catalog: Users can browse available pet care products.
+➕ Add/Edit/Delete Services – Salon owners and admins can manage offerings.
 
-Product Management: Admins can add, edit, or remove products.
+🛍️ 3. Products & Orders
+📦 Product Catalog – Browse pet care items.
 
-Shopping Cart: Users can add or remove products from their cart.
+🛒 Cart – Add/remove products to/from cart.
 
-Online Ordering: Complete orders online with seamless checkout.
+🧾 Ordering – Place orders with seamless checkout.
 
-Order Processing: Admins manage and process incoming orders.
+📬 Admin Order Management – View and manage incoming orders.
 
-4. User & Salon Interaction
-Ratings & Reviews: Users can leave ratings and comments for salons.
+💬 4. Interaction & Feedback
+⭐ Ratings & Reviews – Share experiences with salons.
 
-Questions Section: Users can ask questions publicly to salons.
+❓ Public Q&A – Ask salons questions directly.
 
-Answers: Salons respond to user questions, fostering communication.
+🗣️ Salon Replies – Salon owners can publicly respond.
 
-5. Service Requests
-Send Request: Users can submit requests to book specific services.
+📅 5. Service Requests
+📤 Send Request – Book a service with one click.
 
-Manage Requests: Users can delete requests; salons can process incoming requests.
+🗑️ Delete Request – Cancel pending bookings.
 
-6. Administration
-User & Salon Management: Admins can delete user accounts or remove salons.
+⚙️ Request Handling – Salons can accept/decline requests.
 
-Category Management: Admins can create or delete categories for better organization of services and products.
+🛠️ 6. Administration Panel
+👤 Manage Users & Salons – Remove accounts or salons as needed.
 
-PetPlanet aims to streamline the pet care booking and shopping experience by connecting users with local salons efficiently, fostering transparency, and encouraging community interaction.
+🗂️ Category Control – Create or delete categories for better organization.
+
+📎 Keywords
+#React #DotNet #PetCareApp #FullStack #Authentication #ImageUpload #ProductManagement #AdminPanel #BookingSystem
 
 On Serbian:
 
